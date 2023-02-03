@@ -67,7 +67,7 @@ In order to find correct proposal you will need to run query command using your 
 
 `5 points =  5000 atom for everyone who do this task.`
 
-- Claim reward \ commision and redelegate to DVS validator -
+- Claim reward \ commision and delegate to DVS validator -
 
 `5 points =  5000 atom for everyone do this task.`
 
