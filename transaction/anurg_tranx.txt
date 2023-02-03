@@ -1,0 +1,29 @@
+Phase-3: Transactions 
+Send 1atom to DVS validator
+6E0C4DB757B5659BECDED7145282A119B632FF311B31A3D0D98031016CD7779C
+
+Delegate some DVS to others and redelegate to DVS validator-
+2069B1774E0C9ABBEE882951685F9F610FF0D0E663A0BD0736C3FBB57952810B
+5A99202722EB34D0B64A873AD709CD72C7E3A1BC184BD8CCEA763B4A0C38D801
+0CEA990E5E5662212EC132DAEC96F89694F0314CCA6AF04E7FCE9D669B66B61E
+
+Claim reward \ commision and redelegate to DVS validator -
+1BB6DBDED5B9223D00658F9BA12905A0FB788108A06BD1F1EB8780E8B12E8625
+
+
+Tweet url linked in a memo (Come up with something cool to say about DVS Validator Schoo and experience in Testnet)
+16A75491A043F04D43ADCE7FDC714AA0DD820C9F2333E8C65B8CFCC8B312A5A2
+
+
+Tweet url linked in a memo (Leave your detailed feedback in a thread (from 3 tweets) about the School of Validators. 
+With mark @synctems @POSTHUMAN_DVS @kuraassh. The review must be valid, not just praise. This will be used as a
+starting point for your twitter accounts and student feedback.)
+
+F3DB2AB11D9BAE04480E6F48781B6EDBF8E4B958F1EDDB6886B0C05F16B95E07
+
+
+Bonus Challenges
+
+Send one transaction to two addresses at once and provide txHash
+
+41561AB3185F52EF7A396AE54F37E4E2D0A8340A4AFAE6EAEA404CBFCFD12BA9
