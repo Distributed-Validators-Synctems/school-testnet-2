@@ -35,7 +35,7 @@ Lead validator team will create a governance proposal on `25.01.2023 15:00 UTC`,
 
 In order to find correct proposal you will need to run query command using your network client binary (`gaiad` in our case). Please issue following command `gaiad query gov proposals`, and find proposal with `title:` ”Vote for me friend”.
 
-**New to upgrades?** Read [this](https://docs.cosmos.network/master/modules/gov)
+**New to upgrades?** Read [this](https://docs.cosmos.network/v0.47/modules/gov)
 
 **Update Schedule:**
 
@@ -47,13 +47,13 @@ In order to find correct proposal you will need to run query command using your 
 
 - Review the parameter change proposal and cast your vote before voting period endtime.
 
-`25 Points = 25 000 atom for successful wallet submissions.`
+`25 Points = 25 000 atom for successful vote.`
 
 **Bonus challenge**
 
-- Make a detailed thread on Twitter about incorrect props, what number you missed, what does it mean and make a PR to the appropriate directory.
+- Make a detailed thread on Twitter about incorrect props, what number you missed, what does it mean and make a PR to the appropriate directory. [Tweet directory](https://github.com/Distributed-Validators-Synctems/school-testnet-2/tree/master/tweet)
 
-`5 points =  5000 atom for everyone who provides a peer.`
+`5 points =  5000 atom for everyone who provides a PR url Twitter thread.`
 
 ---
 
@@ -67,7 +67,7 @@ In order to find correct proposal you will need to run query command using your 
 
 `5 points =  5000 atom for everyone who do this task.`
 
-- Claim reward \ commision and redelegate to DVS validator -
+- Claim reward \ commision and delegate to DVS validator -
 
 `5 points =  5000 atom for everyone do this task.`
 

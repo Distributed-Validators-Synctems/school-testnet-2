@@ -2,11 +2,11 @@
 
 ## **Quick Links**
 
-Genesis: `link`
+Genesis: https://github.com/Distributed-Validators-Synctems/school-testnet-2/raw/master/genesis.json
 
 Block explorer: `TBA`
 
-Seeds: TBA
+Persistent peers: "b0000e2150232ad41ad535348a9f0aa28fc60407@65.109.220.1:26656,cd2858f390c1ed4531f07254893b84342d6f761a@38.242.148.56:26656,19562fac936b31d87211c795c16dd8e0f0d7bc25@65.109.167.179:26656,2d90840571b346f64d0e8bab92950f1af4013085@46.4.121.72:11756,541d51d63b5d8ca5ca8e0fc4f49ca4b00e507841@2.58.82.181:26656,d4cd03f5d06d2fb185044398c1a1085aec71117b@38.242.137.91:26656"
 
 Chain Id: school-testnet-2
 
@@ -123,6 +123,18 @@ gaiad tx staking create-validator \
 ```
 
 ## Run node
+
+### ****Download genesis****
+
+To download genesis:
+
+`$ curl https://raw.githubusercontent.com/Distributed-Validators-Synctems/school-testnet-2/master/genesis.json > ~/.gaia/config/genesis.json`
+
+After downloading you need to verify your `genesis.json` checksum
+
+`sha256sum ~/.gaia/config/genesis.json`
+
+you should see `efc118165b7f968d920c67e99586684209a06d8c7255370101b546d24536ea0e` in the output.
 
 ### ****Set Up Cosmovisor****
 
