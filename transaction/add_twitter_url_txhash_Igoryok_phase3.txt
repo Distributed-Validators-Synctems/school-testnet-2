@@ -1,0 +1,26 @@
+Testnet tweet: https://twitter.com/igor86i/status/1620977482554900481?s=20
+hash transaction with testnet tweet memo:
+txhash: 2428780E65A6F2C680566E8DCA34F5DDFCB0D1042675FADCEBF18668B905396D
+
+Feedback about the School of Validators tweet: https://twitter.com/igor86i/status/1620997197398704135?s=20
+hash transaction with feedback about the School of Validators tweet memo:
+txhash: 1D63722FB423168E91FC62C27FF80FA4EB7DDE973D0EF9B96C1B6B684C88599B
+
+Sending 1 atom to DVS School Validator:
+txhash: 83A4780DC6A82E8ED9D80B4563D1AD92C4BB49A2FB9DF24FBFF04CAC1B0EE4DA
+
+Delegate to keculken ( cosmosvaloper18n8ts8dtvr0qhp0gt70xkdze3p0jve9jq0h83r )
+txhash: A0E97FDBD54472A464FC4B786F344759C3C07046513F39DC825468B8130056EC
+
+Redelegate from keculken to DVS School Validator:
+txhash: 02CAFFF9FB3234D3EF12E11C0F88A394F7E2A6AE436A5F43F893CA87B08F0C03
+
+Withdraw rewards and commission:
+txhash: F820B7DA93AF3B2D49E8C39B554C009F898F7FD9D1F6D39A7DD575B8DF1F0E54
+
+Redelegate rewards and commission to DVS School Validator:
+txhash: E7D204B01D8DBDB42C8963A99F3ADC98BD3CAB571D70B854A1DBCFDE45B0063D
+
+I form a multitransaction from 2 wallets (
+Akharra 770 000 uatom - cosmos1nvf6jv94saywetnlha4gw7cj8a88a4856qysne and goose 333 000 uatom - cosmos1zepcce73rhuv7axtan9du862jzpxefe33tejt3 )
+txhash: D10A42C8357FF3CCED4F60D9D9E2C267BD2DF57078F44047E360D45BDB86419C
